@@ -7,13 +7,13 @@ photonic-crystal-iridescence/
 ├── LICENSE
 │
 ├── src/
-│   ├── photonic_crystal.py
+│   ├── photonic-crystal.py
 │   ├── disorder.py
-│   ├── continuum_emt.py
-│   ├── angle_averaged.py
-│   ├── chromaticity_stabilization.py
-│   ├── peacock_all_region_color.py
-│   └── disorder_iridescence_tradeoff.py
+│   ├── continuum-EMT.py
+│   ├── angle-averaged.py
+│   ├── chromaticity-stabilization.py
+│   ├── peacock-all-region-color.py
+│   └── disorder-iridescence.py
 │
 ├── data/
 │   └── (empty or example inputs, if any)
